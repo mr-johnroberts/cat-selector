@@ -25,7 +25,7 @@ A fun, interactive wheel spinner that helps users randomly select a cat breed. B
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/cat-selector.git
+git clone https://github.com/mr-johnroberts/cat-selector.git
 cd cat-selector
 ```
 
